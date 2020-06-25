@@ -1,2 +1,2 @@
-# arepoforgetdemo
-a repo for get demo
+# arepoforgitdemo
+a repo for git demo
